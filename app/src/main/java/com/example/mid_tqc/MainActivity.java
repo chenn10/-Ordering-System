@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private  String[] meal = {"漢堡", "薯條", "雞塊", "可樂", "冰淇淋"};
     private boolean[] mealSeclect = {false, false, false, false, false};
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
