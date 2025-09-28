@@ -1,3 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- 原始的應用程式名稱 -->
     <string name="app_name">mid-TQc</string>
+    
+    <!-- 新增：主要界面文字（從 activity_main.xml 硬編碼文字移出） -->
+    <string name="welcome_title">歡迎光臨蟹寶王</string>
+    <string name="enter_system_button">進入點餐系統</string>
+    <string name="order_label">您點的餐點有:</string>
+    
+    <!-- 新增：對話框文字（從 MainActivity.java 硬編碼文字移出） -->
+    <string name="dialog_title">您點的餐點有：</string>
+    <string name="dialog_positive_button">確定</string>
+    <string name="dialog_negative_button">取消</string>
 </resources>
